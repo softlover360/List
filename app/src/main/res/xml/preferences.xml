@@ -8,4 +8,4 @@
         android:key="test check box"
         android:title="Test"
         android:defaultValue="false" />
-</PreferenceScreen>
+    </PreferenceScreen>
